@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-common:22.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/630901e16275f944ccde0380e061de41/jetified-firebase-ml-common-22.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9d7488fed93cfc7eef822d026ba3576/jetified-firebase-ml-common-22.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1b1e6c94383d07620d9f2e8b74cce5c/jetified-firebase-ml-common-22.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1b1e6c94383d07620d9f2e8b74cce5c/jetified-firebase-ml-common-22.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1b1e6c94383d07620d9f2e8b74cce5c/jetified-firebase-ml-common-22.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-ml-common/22.1.0/8b1cd4c5592918dcd802e177890f717f421a6dd6/firebase-ml-common-22.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
